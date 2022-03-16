@@ -68,3 +68,9 @@ Fake Binary KATA from CODEWARS: Given a string of digits, you should replace any
 - The Rolling Scope Schools Course «JavaScript/Front-end» (in progress)
 
 ---
+
+####Experience:
+
+Unfortunately, there’s no experience yet, but I'm getting it.
+
+---
