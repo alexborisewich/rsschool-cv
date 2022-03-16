@@ -58,3 +58,13 @@ Fake Binary KATA from CODEWARS: Given a string of digits, you should replace any
 [The Academy of the Ministry of Internal Affairs of the Republic of Belarus](https://www.amia.by/), Faculty of militia, Economic lawyer (2009-2014).
 
 ---
+
+####Courses:
+
+- "Website development basics" and "Modern Front-End with JavaScript and HTML5" courses in the [BelHard Academy](https://www.belhard.com/ru/)
+- HTML CSS JavaScript courses and tutorials on the [Code Basics](https://ru.code-basics.com/), [W3Schools](https://www.w3schools.com/)
+- JavaScript manuals [learn.javascript.ru](https://learn.javascript.ru/), [metanit.com](https://metanit.com/)
+- Series of books "You Don't Know JS" by Kyle Simpson (in Russian)
+- The Rolling Scope Schools Course «JavaScript/Front-end» (in progress)
+
+---
