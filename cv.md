@@ -32,3 +32,23 @@ Let me introduce myself. My name is Aliaksei Borisewich. I was born on the 16th 
 - BEM methodology
 
 ---
+
+####Code example:
+
+Fake Binary KATA from CODEWARS: Given a string of digits, you should replace any digit below 5 with '0' and any digit 5 and above with '1'. Return the resulting string.
+
+```
+    function fakeBin(str) {
+      let newStr = '';
+      for (var i = 0; i < str.length; i++) {
+        if (Number(str[i]) >= 5) {
+          newStr += '1';
+        } else {
+          newStr += '0';
+        }
+      }
+      return newStr;
+    }
+```
+
+---
