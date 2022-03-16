@@ -19,3 +19,16 @@
 Let me introduce myself. My name is Aliaksei Borisewich. I was born on the 16th of March 1992. I am an individual entrepreneur. After graduation from university, I served for five years in the internal affairs agencies. Then I worked in the RUE "Belmedpreparaty" as the head of the economic security department. In 2021, I decided to try something new, and I started to be interested in software development. It immediately became interesting for me and began to give me pleasure. I realized that’s what I need to do, and that’s what I want to do! And that immediately became my dream! I like this profession, that's why I study with pleasure. But also I am ready to study hard. In the future, I want to get the position of Junior Front-End Developer. I’m sure I can do it!
 
 ---
+
+####Skills:
+
+- HTML5
+- CSS3
+- JavaScript Basics
+- Git, GitHub
+- VS Code
+- Figma, Adobe Photoshop, Avocode, Zeplin, Marsy
+- SASS (SCSS)
+- BEM methodology
+
+---
