@@ -52,3 +52,9 @@ Fake Binary KATA from CODEWARS: Given a string of digits, you should replace any
 ```
 
 ---
+
+####Education:
+
+[The Academy of the Ministry of Internal Affairs of the Republic of Belarus](https://www.amia.by/), Faculty of militia, Economic lawyer (2009-2014).
+
+---
