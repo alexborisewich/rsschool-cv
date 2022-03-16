@@ -85,3 +85,5 @@ Unfortunately, there’s no experience yet, but I'm getting it.
 - Polish - Elementary
 
 ---
+
+[<img src="./img/rs_school_js.svg" width="100"/>](https://rs.school/)
