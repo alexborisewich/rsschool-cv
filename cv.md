@@ -77,8 +77,8 @@ Unfortunately, there’s no experience yet, but I'm getting it.
 
 #### Languages:
 
-- English - (B1) Intermediate (according to the online test at [![EFset](./img/efset-logo_black.svg)](https://www.efset.org/)
-  [<img src="./img/englevel.jpg" width="300"/>]()
+- English - (B1) Intermediate (according to the online test at [![EFset](./img/efset-logo_black.svg)](https://www.efset.org/)  
+[<img src="./img/englevel.jpg" width="300"/>]()
 - Belorussian - Native
 - Russian - Native
 - Ukrainian - Elementary
